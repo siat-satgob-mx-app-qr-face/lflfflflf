@@ -1,7 +1,7 @@
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"> #f8f5f0
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> #f8f5f0
     <title>Validación de Opinión del SAT</title>
     <style>
         body {
