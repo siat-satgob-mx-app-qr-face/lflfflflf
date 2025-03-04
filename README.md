@@ -1,4 +1,9 @@
-<head>
+<head>  
+ <style>
+/* Ocultar el nombre del repositorio */
+.repository-name {
+    display: none;
+}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Validación de Opinión del SAT</title>
