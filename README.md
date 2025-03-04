@@ -1,5 +1,13 @@
 <html lang="es">
-<head>
+<head> <head>
+    <style>
+        /* Aquí pega el código CSS */
+        .repository-name {
+            color: #f8f5f0 !important;
+            text-decoration: none !important;
+        }
+    </style>
+</head>
     <meta charset="UTF-8"> color #f8f5f0
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> color #f8f5f0
     <title>Validación de Opinión del SAT</title>
