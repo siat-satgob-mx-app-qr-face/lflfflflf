@@ -1,19 +1,19 @@
-<html lang="es">
-<head> <head>/* Ocultar el nombre del repositorio usando el color de fondo */
-.repository-name {
-    color: #f8f5f0 !important; /* Mismo color que el fondo */
-    text-decoration: none !important; /* Elimina el subrayado */
-}
-    <style>
-   /* Ocultar el nombre del repositorio usando el color de fondo */
-.repository-name {
-    color: #f8f5f0 !important; /* Mismo color que el fondo */
-    text-decoration: none !important; /* Elimina el subrayado */
-}  
 
+<head> 
+ <style>
+        //* Ocultar el nombre del repositorio usando el color de fondo */
+.repository-name {
+    color: #f8f5f0 !important; /* Mismo color que el fondo */
+    text-decoration: none !important; /* Elimina el subrayado */
+}/
+        .repository-name {
+            color: #f8f5f0 !important;
+            text-decoration: none !important;
+        }
+    </style>
 </head>
-    <meta charset="UTF-8"> color #f8f5f0
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> color #f8f5f0
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Validación de Opinión del SAT</title>
     <style>
         body {
