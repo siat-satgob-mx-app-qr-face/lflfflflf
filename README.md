@@ -1,13 +1,14 @@
-<head>  
- <style>
-/* Ocultar el nombre del repositorio */
-.repository-name {
-    display: none;
-}
+<!DOCTYPE html>
+<html lang="es">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Validación de Opinión del SAT</title>
     <style>
+        /* Ocultar el texto del nombre del repositorio */
+        .repository-name {
+            display: none;
+        }
         body {
             font-family: Arial, sans-serif;
             background: #f8f5f0; /* Fondo sólido sin gradiente */
@@ -21,7 +22,7 @@
             background-color: transparent; /* Fondo transparente */
         }
         .header img {
-            max-width: 30%; /* Reducimos el tamaño de la imagen al 30% */
+            max-width: 50%; /* Reducimos el tamaño de la imagen al 50% */
             height: auto;
         }
         .container {
