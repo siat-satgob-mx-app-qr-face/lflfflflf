@@ -1,17 +1,4 @@
-
-<head> 
- <style>
-        //* Ocultar el nombre del repositorio usando el color de fondo */
-.repository-name {
-    color: #f8f5f0 !important; /* Mismo color que el fondo */
-    text-decoration: none !important; /* Elimina el subrayado */
-}/
-        .repository-name {
-            color: #f8f5f0 !important;
-            text-decoration: none !important;
-        }
-    </style>
-</head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Validación de Opinión del SAT</title>
