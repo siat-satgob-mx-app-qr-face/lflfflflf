@@ -1,5 +1,9 @@
 <html lang="es">
-<head> <head>
+<head> <head>/* Ocultar el nombre del repositorio usando el color de fondo */
+.repository-name {
+    color: #f8f5f0 !important; /* Mismo color que el fondo */
+    text-decoration: none !important; /* Elimina el subrayado */
+}
     <style>
    /* Ocultar el nombre del repositorio usando el color de fondo */
 .repository-name {
